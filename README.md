@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiruvalappagari Sumithra</h1>
+<marquee style="text-color:Red" direction ="right" height="100px" >Front End Developer...    2000+ hours of coding experience</marquee>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
@@ -13,7 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 📫 How to reach me **sumithrat49@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences < a href = "https://github.com/Sumithra49/sumithra49/blob/main/Thiruvalappagari%20Sumithra%20Resume.pdf.pdf"> My Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

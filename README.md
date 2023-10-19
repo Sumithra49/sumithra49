@@ -14,7 +14,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 📫 How to reach me **sumithrat49@gmail.com**
 
-- 📄 Know about my experiences < a href = "https://github.com/Sumithra49/sumithra49/blob/main/Thiruvalappagari%20Sumithra%20Resume.pdf.pdf"> My Resume </a>
+- 📄 Know about my experiences < a href = "C:\Users\T Sumithra\Downloads\T. Sumithra-resume.docx"> My Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

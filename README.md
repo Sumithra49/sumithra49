@@ -10,7 +10,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
 
-- 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.**
+- 💬 Ask me about ** JAVA, JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS .**
 
 - 📫 How to reach me **sumithrat49@gmail.com**
 

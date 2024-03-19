@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiruvalappagari Sumithra</h1>
 <hr/>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-<hr/>
+
  <p>
       My passion for software lies with dreaming up ideas and making them come
       true with elegant interfaces. I take great care in the experience,
@@ -26,6 +26,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<hr/>
 <p align="left">
 <a href="https://codepen.io/@t-sumithra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@t-sumithra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumithrat49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumithrat49" height="30" width="40" /></a>

@@ -48,7 +48,7 @@
 <h3>My Github Stats</h3>
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
+<p display="flex">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49&" alt="sumithra49" /></p>
 

@@ -47,11 +47,14 @@
 
 <h3>My Github Stats</h3>
 <hr/>
-
-<p display="flex">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
-
-<p><img  style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
-
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
+    </div>
+    <div style="flex: 1;">
+        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
+    </div>
+</div>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>

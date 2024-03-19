@@ -50,8 +50,8 @@
 
 <p display="flex">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
 
-<p><img  style="margin-top: -20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
-<hr/>
+<p><img  style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
+
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>

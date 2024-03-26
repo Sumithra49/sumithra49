@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.**
 
-- 📫 How to reach me **sumithrat49@gmail.com**
+- 📫 How to reach me **mailto:sumithrat49@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing)
 

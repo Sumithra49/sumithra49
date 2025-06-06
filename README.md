@@ -4,6 +4,10 @@
 
 # 💫 About Me:
 I'm a dedicated Full Stack Web Developer with 2 years and 10 months of experience at Tata Consultancy Services (TCS), specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Throughout my career, I've built and delivered several full-stack applications with a strong focus on clean architecture, performance, and user experience. I’ve worked extensively on real-world projects involving REST APIs, authentication, and responsive UI using tools like Redux, Tailwind CSS, and Chakra UI.<br><br>Beyond development, I'm passionate about problem-solving and have solved 1000+ Data Structures and Algorithms problems on platforms like LeetCode and HackerRank. I consistently dedicate time from 9 AM to 11 PM to improving my skills, learning new technologies, and contributing to meaningful projects. This mindset of continuous growth, discipline, and curiosity drives my journey as a developer.<br>🔭:<br><br>👨‍💻 I worked at Tata Consultancy Services (TCS) with 2.10 years of experience as a Full Stack MERN Developer.<br><br>👯 I’m looking to collaborate on exciting MERN stack projects, open-source contributions, and real-world problem-solving apps.<br><br>🤝 I’m looking for help with exploring cloud deployment, DevOps, and integrating AI/ML into web applications.<br><br>🌱 I’m currently learning advanced backend architecture, GraphQL, and improving my system design skills.<br><br>💬 Ask me about React, Node.js, MongoDB, Express, DSA problems, or how I manage to code from 9 AM to 11 PM daily with passion 😄<br><br>⚡ Fun fact: I’ve solved 1000+ DSA problems and still find joy in solving a new one every single day!<br><br>
+📄 **Resume**: [View My Resume](https://drive.google.com/file/d/1GhJZCUin75sCnmCR_Qs_gpGZcza4rgG2/view?usp=sharing)
+
+🌐 **Portfolio**: [Visit My Portfolio](https://sumithrat.netlify.app/)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sumithra49&theme=radical&no-frame=false&no-bg=false&margin-w=4)

@@ -1,63 +1,31 @@
-<h1 align="center">Hi 👋, I'm Thiruvalappagari Sumithra</h1>
-<hr/>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+## Hi 👋, I'm Thiruvalappagari Sumithra</h1>
 
- <p>
-      My passion for software lies with dreaming up ideas and making them come
-      true with elegant interfaces. I take great care in the experience,
-      architecture, and code quality of the things I build. I am also an
-      open-source enthusiast and maintainer. I learned a lot from the
-      open-source community and i love how collaboration and knowledge sharing
-      happened through open-source.
-    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumithra49&label=Profile%20views&color=0e75b6&style=flat" alt="sumithra49" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumithra49" alt="sumithra49" /></a> </p>
-<h3>About me</h3>
-    <hr />
+# 💫 About Me:
+I'm a dedicated Full Stack Web Developer with 2 years and 10 months of experience at Tata Consultancy Services (TCS), specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Throughout my career, I've built and delivered several full-stack applications with a strong focus on clean architecture, performance, and user experience. I’ve worked extensively on real-world projects involving REST APIs, authentication, and responsive UI using tools like Redux, Tailwind CSS, and Chakra UI.<br><br>Beyond development, I'm passionate about problem-solving and have solved 1000+ Data Structures and Algorithms problems on platforms like LeetCode and HackerRank. I consistently dedicate time from 9 AM to 11 PM to improving my skills, learning new technologies, and contributing to meaningful projects. This mindset of continuous growth, discipline, and curiosity drives my journey as a developer.<br>🔭:<br><br>👨‍💻 I worked at Tata Consultancy Services (TCS) with 2.10 years of experience as a Full Stack MERN Developer.<br><br>👯 I’m looking to collaborate on exciting MERN stack projects, open-source contributions, and real-world problem-solving apps.<br><br>🤝 I’m looking for help with exploring cloud deployment, DevOps, and integrating AI/ML into web applications.<br><br>🌱 I’m currently learning advanced backend architecture, GraphQL, and improving my system design skills.<br><br>💬 Ask me about React, Node.js, MongoDB, Express, DSA problems, or how I manage to code from 9 AM to 11 PM daily with passion 😄<br><br>⚡ Fun fact: I’ve solved 1000+ DSA problems and still find joy in solving a new one every single day!<br><br>
 
-- 🌱 I’m currently learning **about Full Stack Web Development at Masai School.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sumithra49&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumithrat49/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumithrat49@gmail.com) 
 
-- 💬 Ask me about **JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sumithra49&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sumithra49&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumithra49&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **mailto:sumithrat49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing](https://drive.google.com/file/d/1npalXNvYVhXVtfFnAHZfzm64tX0k-dvs/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<hr/>
-<p align="left">
-<a href="https://codepen.io/@t-sumithra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@t-sumithra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumithrat49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumithrat49" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sumithrat49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sumithrat49" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumithrat49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumithrat49" height="30" width="40" /></a>
-</p>
- <h3>## 🔝 Most Used Languages</h3>
-<hr/>
-    <div align="center">
-      <img
-        alt="languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&layout=compact&hide_border=true&theme=tokyonight"
-      />
-    </div>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code
-    consists of and doesn't reflect experience or skill level.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3>My Github Stats</h3>
-<hr/>
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumithra49&show_icons=true&locale=en" alt="sumithra49" /></p>
-    </div>
-    <div style="flex: 1;">
-        <p><img style="margin-top: -40px;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithra49" alt="sumithra49" /></p>
-    </div>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sumithra49&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<hr/>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Sumithra49&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

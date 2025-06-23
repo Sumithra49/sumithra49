@@ -3,7 +3,7 @@
 <marquee behavior="scroll" direction="left" scrollamount="6">
   I am passionate about full stack web development 💻✨
 </marquee>
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sumithra49&theme=gruvbox&row=2&column=3&title=Commits,Repositories,PullRequest,Followers,Stars,Multilingual)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 💫 About Me:
